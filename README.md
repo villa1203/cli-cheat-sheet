@@ -2,8 +2,11 @@
 
 todo:
 see exemple of resourcies?
+
 [atlassian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
-[atlassian / pdf]([https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf))
+
+[github education](https://education.github.com/git-cheat-sheet-education.pdf)
+
 [git-tower](https://www.git-tower.com/blog/command-line-cheat-sheet/)
 
 ## git
