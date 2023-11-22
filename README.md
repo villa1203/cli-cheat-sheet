@@ -1,4 +1,4 @@
-# cli-cheat-sheet
+# Cli cheat sheet ;P
 
 todo:
 see exemple of resourcies?
